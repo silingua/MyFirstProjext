@@ -59,4 +59,3 @@ public class Message implements Serializable{//流传递之前需要序列化
     }
 }
 
-//please ignore this!
