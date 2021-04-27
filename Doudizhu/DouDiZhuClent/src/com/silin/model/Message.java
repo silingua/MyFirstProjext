@@ -58,3 +58,5 @@ public class Message implements Serializable{//流传递之前需要序列化
         this.pokers = pokers;
     }
 }
+
+//please ignore this!
